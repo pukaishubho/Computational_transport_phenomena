@@ -5,11 +5,11 @@
 
 |  |
 |:---:|
-| <img width="380" src="pics/download.png" title="Domain"> |
+| <img width="380" src="fires-brick/pics/download.png" title="Domain"> |
 | <p style="text-align:center;"><b>Functional approximation through basis set </b></p> |
-| <img width="380" src="pics/domain.png" title="Domain"> |
+| <img width="380" src="fires-brick/pics/domain.png" title="Domain"> |
 | <p style="text-align:center;"><b>This plot shows one of the inner wall of the bricks of the FIRES-project. The red slav indicates the brick, and the brown ones indicate air flowing through the channels of the brick, cooling both ends of the domain.  </b></p> |
-|<img width="600" src="pics/results.png" title="Domain"> |
+|<img width="600" src="fires-brick/pics/results.png" title="Domain"> |
 | <p style="text-align:center;"><b>The red curv indicates the temperature as calculaated accross this domain. The yellow line is the heat flux along the same domain.</b></p> |
 
 References:
