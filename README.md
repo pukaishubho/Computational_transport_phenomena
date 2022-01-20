@@ -1,5 +1,5 @@
 # Computational_transport_phenomena
->[Shubhojit and Julian](https://github.com/pukaishubho), and [prof. Stephen Lam](url) <br>
+>[Shubhojit](https://github.com/pukaishubho), and [prof. Stephen Lam](url) <br>
  >[Dept. of Chemical Engineering (Nuclear Energy)](xxx) <br>
  >University of Massachusetts Lowell, USA <br>
 
